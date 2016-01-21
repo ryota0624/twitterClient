@@ -1,0 +1,44 @@
+{
+  "name": "edpsc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^6.0.15",
+    "babel-core": "^6.1.2",
+    "babel-loader": "^6.0.1",
+    "babel-plugin-syntax-flow": "^6.0.14",
+    "babel-plugin-transform-flow-strip-types": "^6.0.14",
+    "babel-polyfill": "^6.0.16",
+    "babel-preset-es2015": "^6.1.2",
+    "babel-preset-react": "^6.1.2",
+    "flowcheck": "^0.2.7",
+    "flowcheck-loader": "^1.0.0",
+    "ifx": "^1.0.4",
+    "immutable": "^3.7.5",
+    "material-ui": "^0.13.0",
+    "materialize-css": "^0.97.1",
+    "react": "^0.14.0",
+    "react-addons-create-fragment": "^0.14.0",
+    "react-addons-pure-render-mixin": "^0.14.0",
+    "react-addons-transition-group": "^0.14.0",
+    "react-addons-update": "^0.14.0",
+    "react-dom": "^0.14.0",
+    "react-redux": "^4.0.0",
+    "react-tap-event-plugin": "^0.2.1",
+    "redux": "^3.0.2",
+    "redux-immutable": "^1.3.7",
+    "redux-logger": "^2.0.4",
+    "redux-thunk": "^1.0.0",
+    "superagent": "^1.4.0",
+    "webpack": "^1.12.2"
+  },
+  "dependencies": {
+    "redux-router": "^1.0.0-beta3"
+  }
+}

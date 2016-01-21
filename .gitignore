@@ -1,0 +1,6 @@
+node_modules
+/renderSrc/node_modules
+.idea
+build
+config.js
+.DS_Store

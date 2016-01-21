@@ -1,0 +1,25 @@
+{
+  "name": "electronTw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^6.0.15",
+    "babel-core": "^6.1.2",
+    "babel-loader": "^6.0.1",
+    "ifx": "^1.0.4",
+    "react": "^0.14.1",
+    "react-dom": "^0.14.1",
+    "twit": "^2.1.1",
+    "webpack": "^1.12.2"
+  },
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
